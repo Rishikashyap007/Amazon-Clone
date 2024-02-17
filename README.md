@@ -15,7 +15,7 @@ To get a copy of the project up and running on your local machine, follow these 
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/YourUsername/Amazon-Clone.git
+       (https://github.com/Rishikashyap007/Amazon-Clone.git)
     ```
 
 2. **Open in Browser:**
@@ -49,7 +49,3 @@ If you wish to contribute to this project, your efforts are highly appreciated! 
 5. **Submit a Pull Request:**
 
     Submit a pull request detailing the changes you've made.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
