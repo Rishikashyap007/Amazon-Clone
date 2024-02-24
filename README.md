@@ -49,3 +49,8 @@ If you wish to contribute to this project, your efforts are highly appreciated! 
 5. **Submit a Pull Request:**
 
     Submit a pull request detailing the changes you've made.
+
+   
+## Live Project Demo
+
+[Visit site](https://rishikashyap007.github.io/Amazon-Clone/)
